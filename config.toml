@@ -1,0 +1,4 @@
+baseURL = 'http://www.bytesandwich.com/'
+languageCode = 'en-us'
+title = "Jack's Blog"
+theme = 'm10c'
